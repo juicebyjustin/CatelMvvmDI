@@ -1,6 +1,7 @@
 ﻿using Catel.MVVM;
 using Catel.Services;
 using CatelMvvmDI.Models;
+using CatelMvvmDI.Services;
 using CatelMvvmDI.ViewModels;
 using CatelMvvmDI.Views;
 using Microsoft.Extensions.DependencyInjection;

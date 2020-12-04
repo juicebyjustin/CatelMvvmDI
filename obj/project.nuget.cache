@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/T/6BOyJ4epDH8Ujn7H3BVLV5x1OLXUg7cdhhKYMwdlCjepWtOD4oO53uU513NO+fwvb5GFITzJfuQPack5hQ==",
+  "dgSpecHash": "lGsKWPqvlc/tcBnzQHKxfe+rs7P0QFnpxbCtfh1nz+xXxXwM/gqILoyHI/ghWdLHR6Ova9p8jAY3THfvs4MAtA==",
   "success": true,
-  "projectFilePath": "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\CatelMvvmDI.csproj",
+  "projectFilePath": "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\CatelMvvmDI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jumoone\\.nuget\\packages\\catel.core\\5.12.11\\catel.core.5.12.11.nupkg.sha512",
     "C:\\Users\\jumoone\\.nuget\\packages\\catel.fody\\4.5.0\\catel.fody.4.5.0.nupkg.sha512",

@@ -3,6 +3,7 @@ using Catel.Data;
 using Catel.Fody;
 using Catel.MVVM;
 using CatelMvvmDI.Models;
+using CatelMvvmDI.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ namespace CatelMvvmDI.ViewModels
 
         public MainViewModel()
         {
-            MainModel = new Main() { WindowTitle = "Hello World!" };
+            MainModel = new Main() { WindowTitle = "Hello World! - DI NOT Working with MVVM" };
 
             GetGuidCommand = new Command(OnGetGuidCommandExecute);
         }

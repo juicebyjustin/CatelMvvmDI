@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CatelMvvmDI.Models
+namespace CatelMvvmDI.Services
 {
     public class Service : ModelBase
     {

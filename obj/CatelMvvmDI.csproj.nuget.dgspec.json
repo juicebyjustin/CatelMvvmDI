@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\CatelMvvmDI.csproj": {}
+    "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\CatelMvvmDI.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\CatelMvvmDI.csproj": {
+    "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\CatelMvvmDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\CatelMvvmDI.csproj",
+        "projectUniqueName": "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\CatelMvvmDI.csproj",
         "projectName": "CatelMvvmDI",
-        "projectPath": "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\CatelMvvmDI.csproj",
+        "projectPath": "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\CatelMvvmDI.csproj",
         "packagesPath": "C:\\Users\\jumoone\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Git\\VisualStudioRepos\\CatelMvvmDI\\CatelMvvmDI\\obj\\",
+        "outputPath": "C:\\Data\\Git\\GitHub\\CatelMvvmDI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
