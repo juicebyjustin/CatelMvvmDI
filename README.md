@@ -11,11 +11,11 @@ I am having 2 issues:
 </Window.DataContext>
 ```
 
-2. How do I use DI to inject the dependencies into the views?
-   1. If DI does not inject the services into the constructor of the View the title will read `Hello World!`. 
-   If DI does inject services into the View the title will read `DI is working with MVVM`.
+2. How do I use DI to inject the dependencies into the viewModels?
+   1. If DI does not inject the services into the constructor of the ViewModel the title will read `Hello World! - DI NOT Working with MVVM`. 
+   If DI does inject services into the ViewModel the title will read `DI is working with MVVM`.
 
-The view and view model is registered with `IViewModelLocator`.
+The view and viewmodel is registered with `IViewModelLocator`.
 
 ```csharp
 var viewModelLocator = _host.Services.GetRequiredService<IViewModelLocator>();
